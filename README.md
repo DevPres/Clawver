@@ -1,5 +1,7 @@
 
-# CLAWVER 
+![catnip](https://github.com/DevPres/Clawver/blob/main/clawver.jpg)
+
+# Clawver
 
 Clawver is a plugin that help you extract a documentation from an HTML file.
 
