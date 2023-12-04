@@ -5,11 +5,13 @@
 
 Clawver is a plugin that help you extract a documentation from an HTML file.
 
-By default when you upload an HTML file or multiple, Calwver with the help of the LLM, extract for you from an HTML file, and save it in './extracted-doc/' folder
+By default when you upload an HTML documentation page or multiple, Calwver with the help of the LLM, transform it in markdown, extracting only the relevant text and snippet.
+
+the file will be saved in './extracted-doc/' folder.
 
 ## Usage
 
-Upload an HTML file from a documentation website, wait some minute, and enjoy your markdown documentation!
+Upload an HTML documentation page, wait some minute, and enjoy your markdown documentation!
 
 ## Example of usage
 
