@@ -1,6 +1,4 @@
 
-[![awesome plugin](https://custom-icon-badges.demolab.com/static/v1?label=&message=awesome+plugin&color=383938&style=for-the-badge&logo=cheshire_cat_ai)](https://) 
-
 # CLAWVER 
 
 Clawver is a plugin that help you extract a documentation from an HTML file.
